@@ -1,1 +1,1 @@
-adding some text
+Welcome to the Git training!
